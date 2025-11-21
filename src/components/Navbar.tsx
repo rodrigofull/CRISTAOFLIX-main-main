@@ -50,7 +50,7 @@ export function Navbar() {
           <a href="https://t.me" target="_blank" className="hover:opacity-70 transition">
             <Send className="h-6 w-6 text-blue-400" />
           </a>
-          <a href="https://instagram.com" target="_blank" className="hover:opacity-70 transition">
+          <a href="https://www.instagram.com/observadorevangelista/" target="_blank" className="hover:opacity-70 transition">
             <Instagram className="h-6 w-6 text-pink-500" />
           </a>
           <a href="https://tiktok.com" target="_blank" className="hover:opacity-70 transition">
