@@ -36,7 +36,7 @@ export const mockVideos: Video[] = [
   },
   {
     id: '4',
-    title: 'Os 7 abismos',
+    title: ' Os 7 abismos',
     description: 'Explicação de como o Monte das Oliveiras irá se partir na volta de Cristo.',
     category: 'videos',
     cover_url: 'https://entendaabiblia.com.br/wp-content/uploads/2024/12/Como-vai-ser-a-volta-de-Jesus.png',
